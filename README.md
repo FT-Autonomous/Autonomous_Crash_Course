@@ -12,6 +12,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 - You can run everything in a [Docker](https://www.docker.com/products/docker-desktop) container with Ubuntu 18.04 and [ros:melodic-robot-bionic](https://hub.docker.com/_/ros?tab=description) (reference to [Dockerfile](https://github.com/osrf/docker_images/blob/7ff09c2a75e902bc2bb25a1f1ae748ec4e9c7a4b/ros/melodic/ubuntu/bionic/robot/Dockerfile) and [Tutorial](http://wiki.ros.org/docker/Tutorials)) - This is new for us also, so we need feedback on this to make it user-friendly
 - Virtual Machine (like VirtualBox) on your main OS is fine also, but may run slightly slower than dual-boot
 - Guide to [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) installation (prerequisite for F1Tenth Sim is ros-melodic-desktop, but full version is recommended, in case you want to more yourself)
+- Get familiar with [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf) and [Probability](http://cs229.stanford.edu/section/cs229-prob.pdf) on-the-go, as it's very common in the theory the more in-depth you go
 
 ### Introduction to Autonomous Racing
 
