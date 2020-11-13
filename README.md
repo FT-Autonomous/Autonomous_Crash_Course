@@ -68,7 +68,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 
 1. [(F1Tenth) Lecture 17](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleE/lecture17.html) - Introduction to vision model and pose estimation
 2. [(F1Tenth) Lecture 18](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleE/lecture18.html) - Multi-view geometry, and YOLO object detection
-3. [(YouTube) Stanford CS231n by Andrej Karpathy](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1) - rigorous coverage of computer vision, specifically Convolutional Neural Networks for Visual Recognition. Long, detailed lecture series
+3. [(YouTube) Stanford CS231n by Andrej Karpathy](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1) - rigorous coverage of computer vision, specifically Convolutional Neural Networks for Visual Recognition. Long, detailed lecture series. Pre-requisite to Deep Learning is [Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)
 4. [PyTorch Tutorial](https://pytorch.org/tutorials/) - currently more common framework for Deep Learning researchers (also Lightning)
 5. [Keras quick guide](https://keras.io/getting_started/intro_to_keras_for_researchers/) - built on TensorFlow framework, research work sources may also reference TF1.0, TF2.0, Keras (different API changes throughout TF versions, but should not be varying for core machine learning functionality, and similar to PyTorch in quite a few ways)
 
