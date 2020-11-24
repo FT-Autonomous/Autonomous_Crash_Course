@@ -13,6 +13,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 - Ubuntu Virtual Machine (like VirtualBox) on your main OS is fine also, but may run slightly slower than dual-boot. Example guide [here](https://linuxhint.com/install_ubuntu_18-04_virtualbox/).
 - Guide to [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) installation (prerequisite for F1Tenth Sim is ros-melodic-desktop, but full version is recommended, in case you want to more yourself). 
 - Get familiar with [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf) and [Probability](http://cs229.stanford.edu/section/cs229-prob.pdf) on-the-go, as it's very common in the theory the more in-depth you go
+- Check out the [AMZ team resources](https://github.com/AMZ-Driverless/fsd-resources) for extra stuff like example systems, datasets, and references!
 
 ### Introduction to Autonomous Racing
 
