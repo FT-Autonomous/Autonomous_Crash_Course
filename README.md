@@ -49,6 +49,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 3. [(F1Tenth) Lecture 12](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleC/lecture12.html) - Introduces modern SLAM using Google Cartographer as part of a mapping and localization system, key breakthroughs in efficiency, and guide on installing it
 4. [(F1Tenth) Lab 5](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/lab5.html) - Create your own Scan Matching system (group work is recommended from this lab onwards, provides a rigorous and effective way to learn about optimizing an algorithm like this, but challenging)
 5. [(YouTube) AMZ Driverless on Redundant Perception and State Estimation](https://www.youtube.com/watch?v=ir_uqEYuT84) - How robust perception plays a key role in Localization
+6. [(Book/Repo) Theory and implementation of Kalman/Bayesian Filters (useful for localization)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ### Planning Methods
 
