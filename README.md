@@ -77,7 +77,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 
 ### Reinforcement Learning (RL)
 
-1.[Introduction to Deep Learning](http://introtodeeplearning.com/) - Here's a link to the full MIT Deep Learning course. It's really easy to grasp and they have a bunch of interesting labs for you to work on.
+1. [Introduction to Deep Learning](http://introtodeeplearning.com/) - Here's a link to the full MIT Deep Learning course. It's really easy to grasp and they have a bunch of interesting labs for you to work on.
 2. [OpenAI Gym docs/tutorial](https://gym.openai.com/docs/) - This is the most widely used framework for RL experiment benchmarking
 3. [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/) - Rigorous guide to RL and deep RL, useful for new researchers
 4. [(YouTube) Solving Rubik's Cube with a single robot hand](https://www.youtube.com/watch?v=x4O8pojMF0w) - very challenging for even people to do one-handed
