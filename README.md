@@ -15,6 +15,10 @@ This document will get updated regularly, so you can star this repo, or fork it.
 - Get familiar with [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf) and [Probability](http://cs229.stanford.edu/section/cs229-prob.pdf) on-the-go, as it's very common in the theory the more in-depth you go
 - Check out the [AMZ team resources](https://github.com/AMZ-Driverless/fsd-resources) for extra stuff like example systems, datasets, and references!
 
+### ROS Tips
+
+- This [cheat sheet](http://air.imag.fr/images/f/f7/ROScheatsheet.pdf) shows very comprehenisve command line commands for ROS, as well as common commands [here](https://subscription.packtpub.com/book/hardware_and_creative/9781782175193/1/ch01lvl1sec15/ros-commands-summary)
+
 ### Introduction to Autonomous Racing
 
 1. [(F1Tenth) Lecture 1](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/lecture01.html) - Introduces F1Tenth platform, autonomous racing concepts, and simulator (Ignore UPenn-specific logistics)
@@ -82,5 +86,5 @@ This document will get updated regularly, so you can star this repo, or fork it.
 3. [Spinning Up by OpenAI](https://spinningup.openai.com/en/latest/) - Rigorous guide to RL and deep RL, useful for new researchers
 4. [(YouTube) Solving Rubik's Cube with a single robot hand](https://www.youtube.com/watch?v=x4O8pojMF0w) - very challenging for even people to do one-handed
 5. [(YouTube) David Silver's DeepMind intro to RL](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=1) - lecture series that delivers holistic view on RL, very good for understanding but not the most practical for implementation of programs.
-
+6. [Alternative RL course with Colab-ready notebooks](https://github.com/yandexdataschool/Practical_RL)
    
