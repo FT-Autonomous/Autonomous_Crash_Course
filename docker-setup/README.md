@@ -50,11 +50,11 @@ choco install vcxsrv
 
 Open the XLaunch Application
 
-<img src="https://github.com/davidnugent2425/Autonomous_Crash_Course/blob/main/docker-setup/media/xlaunch-1.jpg" width="300">
+<img src="./media/xlaunch-1.jpg" width="300">
 
 Follow the default settings for each step except the following
 
-<img src="https://github.com/davidnugent2425/Autonomous_Crash_Course/blob/main/docker-setup/media/xlaunch-2.jpg" width="400">
+<img src="./media/xlaunch-2.jpg" width="400">
 
 Once the XLaunch setup is finished, find your local IP Address by entering an ipconfig command in your local terminal
 
@@ -64,7 +64,7 @@ ipconfig
 
 Your local IP should be found similarly to where its shown below (ignore the white marks)
 
-<img src="https://github.com/davidnugent2425/Autonomous_Crash_Course/blob/main/docker-setup/media/ipconfig.jpg" width="400">
+<img src="./media/ipconfig.jpg" width="400">
 
 Execute the setup-display script in the docker container passing your local IP Address as a parameter (ignore brackets below).
 
