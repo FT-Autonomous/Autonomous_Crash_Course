@@ -73,3 +73,11 @@ source /set-display.sh [Local IP Address]
 ```
 
 Now when you run the simulator you should see visuals open in a new window.
+
+### Enabling the Container to display GUIs on the host machine (Ubuntu, and other)
+
+First, install [Rocker](https://github.com/osrf/rocker), then after you have built your image (step 3), run the following command in your Terminal to run the Docker image:
+
+```
+rocker [optional: --nvidia or --devices /dev/dri/card0] --x11 docker-ros
+```
