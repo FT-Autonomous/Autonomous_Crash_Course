@@ -3,7 +3,7 @@ FROM ros:melodic-robot-bionic
 
 # install dependencies for the F1Tenth simulator and wget
 RUN sudo apt-get update
-RUN sudo apt-get -y install ros-melodic-ackermann-msgs ros-melodic-tf2-geometry-msgs ros-melodic-interactive-markers ros-melodic-cv-bridge ros-melodic-image-transport ros-melodic-rviz ros-melodic-joy ros-melodic-map-server wget
+RUN sudo apt-get -y install ros-melodic-ackermann-msgs ros-melodic-tf2-geometry-msgs ros-melodic-interactive-markers ros-melodic-cv-bridge ros-melodic-image-transport ros-melodic-rviz ros-melodic-joy ros-melodic-map-server wget vim
 # switch to bash for running commands
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 # initialise ROS, pull useful scripts from our repo and clone the F1Tenth repo into a new catkin workspace
