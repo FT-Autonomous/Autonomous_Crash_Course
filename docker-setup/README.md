@@ -45,7 +45,7 @@ Warning: Some firewalls may block access so it might be necessary to disable you
 Open Windows Powershell as Administrator and install the VcXsrv package
 
 ```
-choco install vcxsrv
+choco install xming
 ```
 
 Open the XLaunch Application
