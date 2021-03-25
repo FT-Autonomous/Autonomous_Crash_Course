@@ -12,6 +12,7 @@ RUN source /ros_entrypoint.sh && \
     wget https://raw.githubusercontent.com/FT-Autonomous/Autonomous_Crash_Course/main/docker-setup/run-simulator.sh && \
     wget https://raw.githubusercontent.com/FT-Autonomous/Autonomous_Crash_Course/main/docker-setup/set-display.sh && \
     wget https://raw.githubusercontent.com/FT-Autonomous/Autonomous_Crash_Course/main/docker-setup/ros-init.sh && \
+    wget https://raw.githubusercontent.com/FT-Autonomous/Autonomous_Crash_Course/main/docker-setup/maps.txt && \
     mkdir -p /catkin_ws/src && \
     cd catkin_ws/src && \
     git clone https://github.com/f1tenth/f110_ros.git
