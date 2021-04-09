@@ -1,6 +1,6 @@
 # Crash Course on Autonomous Racing
 
-Here are some of the most essential topics that are recommended for getting a racing system ready, most of which are from [F1Tenth](https://f1tenth.org/learn.html). This is a good platform for introducing topics in autonomous racing. Some in-depth topics may not be possible to cover in this README, but will be worked on during your work in your role. 
+Here are some of the most essential topics that are recommended for getting a racing system ready, most of which are from [F1Tenth](https://f1tenth.org/learn.html). This is a good platform for introducing topics in autonomous racing. Some in-depth topics may not be possible to cover in this README, but can be freely expolored! 
 
 **Recommended** to learn on-the-go, alongside system-specific learning/research. Every topic is highly useful for your benefit, but learn what you need for your own purpose. **Challenging**, but productive (and interesting) way to appreciate the design of autonomous systems, and to gain the most applicable skills. Especially good to learn if you are not in your final year of study, or want to learn outside of your studies.
 
@@ -14,6 +14,7 @@ This document will get updated regularly, so you can star this repo, or fork it.
 - Guide to [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) installation (prerequisite for F1Tenth Sim is ros-melodic-desktop, but full version is recommended, in case you want to more yourself). 
 - Get familiar with [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf) and [Probability](http://cs229.stanford.edu/section/cs229-prob.pdf) on-the-go, as it's very common in the theory the more in-depth you go
 - Check out the [AMZ team resources](https://github.com/AMZ-Driverless/fsd-resources) for extra stuff like example systems, datasets, and references!
+- ALSO: Start off from [F1Tenth Gym](https://github.com/f1tenth/f1tenth_gym) for easier setup and for trying out the labs!
 
 ### Stuck on anything? No worries!:
 
