@@ -41,8 +41,8 @@ This document will get updated regularly, so you can star this repo, or fork it.
 2. [(F1Tenth) Tutorial 2](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/tutorial2.html) - Introduces the addition of system planners in F1Tenth Simulator
 3. [(F1Tenth) Lab 2](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/lab2.html) - Introduces the programming of an Automatic Braking System in F1Tenth Sim. Important safety feature of car
 4. [(F1Tenth) Lecture 3](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/lecture03.html) - Introduces coordinates, reference frames, rigid body transformations, and tf2_ros
-5. [(YouTube) Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) - Brief introduction to controller design (PID) - Note [Lecture 4 for F1Tenth](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/lecture04.html) has incorrect slides for Laplace Domain and PID control, but refers to the wall follower lab
-6. [(F1Tenth) Lecture 4](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/lecture04.html) - Perception and Localization Intro (covered further in Module C) - References to further control theory will be in Control Engineering repo
+5. [(YouTube) Controlling Self Driving Cars](https://www.youtube.com/watch?v=4Y7zG48uHRo) - Brief introduction to controller design (PID)
+6. [(F1Tenth) Lecture 4](https://f1tenth-coursekit.readthedocs.io/en/stable/lectures/ModuleA/lecture04.html) - Laplace Domain Dynamics & PID
 7. [(F1Tenth) Lab 3](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/lab3.html) - Wall Follower Controller Intro - Use a PID controller to race the car along the walls of the track! ([Brian Douglas on MATLAB](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) has a useful intro to PIDs series, along with in-depth control systems topics on his own channel)
 8. [(YouTube) AMZ Driverless presents Learning-Based Model Predictive Control](https://www.youtube.com/watch?v=bjlT-6KVQ7U) to overcome model inaccuracies! (quick 3 min research presentation)
 
